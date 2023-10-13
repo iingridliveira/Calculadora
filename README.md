@@ -5,7 +5,7 @@ Caucladora simples, tecnologias WEB. <br/>
 
 
 <p align="center">
-  <img alt=" foto do projeto caucladora" src="../src/img/Captura.png">
+  <img alt=" foto do projeto caucladora" src="/src/img/Captura.png">
 </p>
 
 <br>
