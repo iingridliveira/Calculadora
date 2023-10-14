@@ -1,7 +1,7 @@
 <h1 align="center"> Calculadora </h1>
 
 <p align="center">
-Caucladora simples, tecnologias WEB. <br/>
+Calculadora simples, tecnologias WEB. <br/>
 
 <p align="center">
   <img alt=" foto do projeto caucladora" src="../.github/Captura.png">
